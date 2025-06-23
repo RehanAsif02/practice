@@ -1,4 +1,6 @@
 hi,my name is ...
 this the sceond line...
 hi,now conflict is created
+conflict is resolved
+
 
